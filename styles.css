@@ -1,0 +1,10 @@
+@import'./reset.css';
+@import'./nav.css';
+
+body {
+    font-family: 'Comfortaa', cursive;
+}
+
+* {
+    box-sizing: border-box;
+}
